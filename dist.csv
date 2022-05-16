@@ -1,0 +1,273 @@
+Node 1,Node 2,Distance (KM)
+Zurich ,Geneva,  282  
+Zurich ,Basel,  85  
+Zurich ,Bern,  130  
+Zurich ,Lausanne,  225  
+Zurich ,Winterthur,  27  
+Zurich ,Lucerne,  51  
+Zurich ,Saint Gallen,  85  
+Zurich ,Biel ,117
+Zurich ,Thun ,150
+Zurich ,Schaffhausen ,51
+Zurich ,Fribourg ,159
+Zurich ,Chur ,121
+Zurich ,Sion ,277
+Zurich ,Lugano ,208
+Zurich ,Zug ,35
+Zurich ,Montreux ,211
+Geneva ,Zurich,  282  
+Geneva ,Basel,  251  
+Geneva ,Bern,  161  
+Geneva ,Lausanne,  71  
+Geneva ,Winterthur,  301  
+Geneva ,Lucerne,  266  
+Geneva ,Saint Gallen,  360  
+Geneva ,Biel ,161
+Geneva ,Thun ,190
+Geneva ,Schaffhausen ,325
+Geneva ,Fribourg ,140
+Geneva ,Chur ,399
+Geneva ,Sion ,163
+Geneva ,Lugano ,370
+Geneva ,Zug ,290
+Geneva ,Montreux ,95
+Basel ,Zurich,  85  
+Basel ,Geneva,  251  
+Basel ,Bern,  111  
+Basel ,Lausanne,  187  
+Basel ,Winterthur,  106  
+Basel ,Lucerne,  95  
+Basel ,Saint Gallen,  164  
+Basel ,Biel ,90
+Basel ,Thun ,122
+Basel ,Schaffhausen ,130
+Basel ,Fribourg ,130
+Basel ,Chur ,204
+Basel ,Sion ,249
+Basel ,Lugano ,266
+Basel ,Zug ,108
+Basel ,Montreux ,182
+Bern ,Zurich,  130  
+Bern ,Geneva,  161  
+Bern ,Basel,  111  
+Bern ,Lausanne,  105  
+Bern ,Winterthur,  159  
+Bern ,Lucerne,  116  
+Bern ,Saint Gallen,  217  
+Bern ,Biel ,53
+Bern ,Thun ,27
+Bern ,Schaffhausen ,175
+Bern ,Fribourg ,37
+Bern ,Chur ,248
+Bern ,Sion ,156
+Bern ,Lugano ,293
+Bern ,Zug ,138
+Bern ,Montreux ,90
+Lausanne ,Zurich,  225  
+Lausanne ,Geneva,  71  
+Lausanne ,Basel,  187  
+Lausanne ,Bern,  105  
+Lausanne ,Winterthur,  246  
+Lausanne ,Lucerne,  209  
+Lausanne ,Saint Gallen,  304  
+Lausanne ,Biel ,109
+Lausanne ,Thun ,137
+Lausanne ,Schaffhausen ,269
+Lausanne ,Fribourg ,72
+Lausanne ,Chur ,343
+Lausanne ,Sion ,95
+Lausanne ,Lugano ,380
+Lausanne ,Zug ,233
+Lausanne ,Montreux ,29
+Winterthur ,Zurich,  27  
+Winterthur ,Geneva,  301  
+Winterthur ,Basel,  106  
+Winterthur ,Bern,  159  
+Winterthur ,Lausanne,  246  
+Winterthur ,Lucerne,  77  
+Winterthur ,Saint Gallen,  56  
+Winterthur ,Biel ,140
+Winterthur ,Thun ,172
+Winterthur ,Schaffhausen ,34
+Winterthur ,Fribourg ,183
+Winterthur ,Chur ,159
+Winterthur ,Sion ,298
+Winterthur ,Lugano ,240
+Winterthur ,Zug ,71
+Winterthur ,Montreux ,232
+Lucerne ,Zurich,  51  
+Lucerne ,Geneva,  266  
+Lucerne ,Basel,  95  
+Lucerne ,Bern,  116  
+Lucerne ,Lausanne,  209  
+Lucerne ,Winterthur,  77  
+Lucerne ,Saint Gallen,  143  
+Lucerne ,Biel ,105
+Lucerne ,Thun ,97
+Lucerne ,Schaffhausen ,101
+Lucerne ,Fribourg ,145
+Lucerne ,Chur ,143
+Lucerne ,Sion ,267
+Lucerne ,Lugano ,171
+Lucerne ,Zug ,31
+Lucerne ,Montreux ,196
+Saint Gallen ,Zurich,  85  
+Saint Gallen ,Geneva,  360  
+Saint Gallen ,Basel,  164  
+Saint Gallen ,Bern,  217  
+Saint Gallen ,Lausanne,  304  
+Saint Gallen ,Winterthur,  56  
+Saint Gallen ,Lucerne,  143  
+Saint Gallen ,Biel ,198
+Saint Gallen ,Thun ,230
+Saint Gallen ,Schaffhausen ,82
+Saint Gallen ,Fribourg ,237
+Saint Gallen ,Chur ,106
+Saint Gallen ,Sion ,356
+Saint Gallen ,Lugano ,249
+Saint Gallen ,Zug ,126
+Saint Gallen ,Montreux ,290
+Biel ,Zurich,  117  
+Biel ,Geneva,  161  
+Biel ,Basel,  90  
+Biel ,Bern,  53  
+Biel ,Lausanne,  109  
+Biel ,Winterthur,  140  
+Biel ,Lucerne,  105  
+Biel ,Saint Gallen,  198  
+Biel ,Thun ,72
+Biel ,Schaffhausen ,163
+Biel ,Fribourg ,80
+Biel ,Chur ,237
+Biel ,Sion ,200
+Biel ,Lugano ,274
+Biel ,Zug ,129
+Biel ,Montreux ,132
+Thun ,Zurich,  150  
+Thun ,Geneva,  190  
+Thun ,Basel,  122  
+Thun ,Bern,  27  
+Thun ,Lausanne,  137  
+Thun ,Winterthur,  172  
+Thun ,Lucerne,  97  
+Thun ,Saint Gallen,  230  
+Thun ,Biel ,72
+Thun ,Schaffhausen ,196
+Thun ,Fribourg ,69
+Thun ,Chur ,270
+Thun ,Sion ,188
+Thun ,Lugano ,248
+Thun ,Zug ,161
+Thun ,Montreux ,124
+Schaffhausen ,Zurich,  51  
+Schaffhausen ,Geneva,  325  
+Schaffhausen ,Basel,  130  
+Schaffhausen ,Bern,  175  
+Schaffhausen ,Lausanne,  269  
+Schaffhausen ,Winterthur,  34  
+Schaffhausen ,Lucerne,  101  
+Schaffhausen ,Saint Gallen,  82  
+Schaffhausen ,Biel ,163
+Schaffhausen ,Thun ,196
+Schaffhausen ,Fribourg ,203
+Schaffhausen ,Chur ,185
+Schaffhausen ,Sion ,323
+Schaffhausen ,Lugano ,256
+Schaffhausen ,Zug ,92
+Schaffhausen ,Montreux ,256
+Fribourg ,Zurich,  159  
+Fribourg ,Geneva,  140  
+Fribourg ,Basel,  130  
+Fribourg ,Bern,  37  
+Fribourg ,Lausanne,  72  
+Fribourg ,Winterthur,  183  
+Fribourg ,Lucerne,  145  
+Fribourg ,Saint Gallen,  237  
+Fribourg ,Biel ,80
+Fribourg ,Thun ,69
+Fribourg ,Schaffhausen ,203
+Fribourg ,Chur ,277
+Fribourg ,Sion ,130
+Fribourg ,Lugano ,312
+Fribourg ,Zug ,167
+Fribourg ,Montreux ,60
+Chur ,Zurich,  121  
+Chur ,Geneva,  399  
+Chur ,Basel,  204  
+Chur ,Bern,  248  
+Chur ,Lausanne,  343  
+Chur ,Winterthur,  159  
+Chur ,Lucerne,  143  
+Chur ,Saint Gallen,  106  
+Chur ,Biel ,237
+Chur ,Thun ,270
+Chur ,Schaffhausen ,185
+Chur ,Fribourg ,277
+Chur ,Sion ,396
+Chur ,Lugano ,145
+Chur ,Zug ,117
+Chur ,Montreux ,330
+Sion ,Zurich,  277  
+Sion ,Geneva,  163  
+Sion ,Basel,  249  
+Sion ,Bern,  156  
+Sion ,Lausanne,  95  
+Sion ,Winterthur,  298  
+Sion ,Lucerne,  267  
+Sion ,Saint Gallen,  356  
+Sion ,Biel ,200
+Sion ,Thun ,188
+Sion ,Schaffhausen ,323
+Sion ,Fribourg ,130
+Sion ,Chur ,396
+Sion ,Lugano ,217
+Sion ,Zug ,286
+Sion ,Montreux ,68
+Lugano ,Zurich,  208  
+Lugano ,Geneva,  370  
+Lugano ,Basel,  266  
+Lugano ,Bern,  293  
+Lugano ,Lausanne,  380  
+Lugano ,Winterthur,  240  
+Lugano ,Lucerne,  171  
+Lugano ,Saint Gallen,  249  
+Lugano ,Biel ,274
+Lugano ,Thun ,248
+Lugano ,Schaffhausen ,256
+Lugano ,Fribourg ,312
+Lugano ,Chur ,145
+Lugano ,Sion ,217
+Lugano ,Zug ,172
+Lugano ,Montreux ,278
+Zug ,Zurich,  35  
+Zug ,Geneva,  290  
+Zug ,Basel,  108  
+Zug ,Bern,  138  
+Zug ,Lausanne,  233  
+Zug ,Winterthur,  71  
+Zug ,Lucerne,  31  
+Zug ,Saint Gallen,  126  
+Zug ,Biel ,129
+Zug ,Thun ,161
+Zug ,Schaffhausen ,92
+Zug ,Fribourg ,167
+Zug ,Chur ,117
+Zug ,Sion ,286
+Zug ,Lugano ,172
+Zug ,Montreux ,220
+Montreux ,Zurich,  211  
+Montreux ,Geneva,  95  
+Montreux ,Basel,  182  
+Montreux ,Bern,  90  
+Montreux ,Lausanne,  29  
+Montreux ,Winterthur,  232  
+Montreux ,Lucerne,  196  
+Montreux ,Saint Gallen,  290  
+Montreux ,Biel ,132
+Montreux ,Thun ,124
+Montreux ,Schaffhausen ,256
+Montreux ,Fribourg ,60
+Montreux ,Chur ,330
+Montreux ,Sion ,68
+Montreux ,Lugano ,278
+Montreux ,Zug ,220
