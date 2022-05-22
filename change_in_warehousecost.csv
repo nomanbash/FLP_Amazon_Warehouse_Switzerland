@@ -1,0 +1,4 @@
+,Share,Warehouse_cost,Warehouse_sizes,Km_cost,Total_cost,Basel,Bern,Biel,Chur,Fribourg,Geneva,Lausanne,Lucerne,Lugano,Montreux,Saint Gallen,Schaffhausen,Sion,Thun,Winterthur,Zug,Zurich
+0,0.2,"[5000000, 15000000]","[100000, 250000]",8,43313072,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+1,0.2,"[10000000, 25000000]","[100000, 250000]",8,63657930,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+2,0.2,"[15000000, 37500000]","[100000, 250000]",8,78657930,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
